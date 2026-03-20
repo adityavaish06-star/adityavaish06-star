@@ -83,4 +83,4 @@ J.S. University, Firozabad | 2023
 
 ---
 
-*Open to Business Analytics · Data Analytics · Consulting · Finance Internship Opportunities*
+*Open to Business Analytics · Data Analytics · Business Strategy · Finance Internship Opportunities*
