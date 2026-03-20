@@ -21,15 +21,13 @@ I am a dual-specialisation PGDM candidate at **I Business Institute, Noida** wit
 |----------|-------|
 | **BI & Visualisation** | Microsoft Power BI, PowerPoint |
 | **Data & Analytics** | Advanced Excel (PivotTables, VLOOKUP, Power Query), SQL |
-| **Programming** | Python (Fundamentals) |
-| **CRM & Marketing** | HubSpot CRM |
 | **Other** | GitHub, Microsoft Office Suite |
 
 ---
 
 ## 📂 Featured Projects
 
-### 📦 [Retail SKU Analysis — Reliance Mart](https://github.com/adityavaish06-star)
+### 📦 [Retail SKU Analysis — Reliance Mart](https://github.com/adityavaish06-star/Reliance-Mart-Retail-Analytics)
 > Live Business Analytics Project | Jan 2026
 
 - Conducted **Pareto (80/20) analysis** across 500+ SKUs in a team of 3
@@ -39,19 +37,19 @@ I am a dual-specialisation PGDM candidate at **I Business Institute, Noida** wit
 
 ---
 
-### 📊 [Power BI KPI Dashboard — Tata Consultancy Services](https://github.com/adityavaish06-star)
+### 📊 [Power BI KPI Dashboard — Tata Consultancy Services](https://github.com/adityavaish06-star/Tata-Data-Visualisation-Forage)
 > Data Visualisation Virtual Experience | Forage | Mar 2026
 
 - Designed cross-functional **KPI dashboards** in Power BI for real-time performance monitoring
 - Transformed multi-source datasets into executive-ready visual reports
-- Reduced stakeholder insight-delivery time by **40%**
+- Answered real business questions posed by Tata's executive leadership team
 
 ---
 
-### 📉 [Credit Risk Model — J.P. Morgan Chase & Co.](https://github.com/adityavaish06-star)
+### 📉 [Credit Risk Model — J.P. Morgan Chase & Co.](https://github.com/adityavaish06-star/JPMorgan-Quantitative-Research-Forage)
 > Quantitative Research Virtual Experience | Forage | 2026 *(In Progress)*
 
-- Applying Python fundamentals to estimate **loan default probability**
+- Applying analytical frameworks to estimate **loan default probability**
 - Building a predictive credit risk model to support data-driven investment decisions
 
 ---
@@ -65,9 +63,6 @@ I am a dual-specialisation PGDM candidate at **I Business Institute, Noida** wit
 | Data Visualisation: Empowering Business with Effective Insights | Tata × Forage | ✅ Completed |
 | Entrepreneurship Training | I Business Institute · Skill India · NSDC | ✅ Completed |
 | Quantitative Research Virtual Experience | J.P. Morgan Chase & Co. × Forage | 🔄 In Progress |
-| Google Data Analytics Professional Certificate | Google × Coursera | 🔄 In Progress |
-| HubSpot CRM Fundamentals | HubSpot Academy · I Business Institute | 🔄 In Progress |
-| Advanced Excel – Data Analysis & Reporting | I Business Institute | 🔄 In Progress |
 
 ---
 
