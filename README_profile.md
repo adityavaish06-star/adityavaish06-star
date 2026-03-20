@@ -2,7 +2,7 @@
 
 ### PGDM Candidate | Business Analytics & Finance | Delhi NCR, India
 
-I am a dual-specialisation PGDM candidate at **I Business Institute, Noida** with a passion for turning complex data into clear, actionable business insights. My work sits at the intersection of **data analytics, business intelligence, and consulting**.
+I am a dual-specialisation PGDM candidate at **I Business Institute, Noida** with a passion for turning complex data into clear, actionable business insights. My work sits at the intersection of **data analytics, business intelligence, and business strategy**.
 
 ---
 
